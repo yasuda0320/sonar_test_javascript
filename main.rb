@@ -1,1 +1,1 @@
-system('date')
+system(ARGV.join(' '))
